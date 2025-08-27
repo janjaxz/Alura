@@ -1,3 +1,7 @@
+<head>
+<limk rel="stylesheet" href="styles.css" />
+  </head>
+
 <body>
 
 <header>ALURAFLIX</header>
