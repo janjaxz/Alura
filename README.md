@@ -1,4 +1,3 @@
-[index.html](https://github.com/user-attachments/files/22006102/index.html)
 <body>
 
 <header>ALURAFLIX</header>
