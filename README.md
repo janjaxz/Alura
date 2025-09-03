@@ -7,7 +7,7 @@
 
 <header>ALURAFLIX</header>
 
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+<h1>UMA PEGADA NA CENA DO CRIME MUDOU TUDO| Caso Jeanie Childs </h1>
 <p>#homem-aranha</p>
 
 
