@@ -1,8 +1,13 @@
 body{
 color: #d77267cf;
   backgroud:#d59e9e63;
+  margin:0px
 }
 
 header{
-border:solid 2px rgb (226, 214,0);
+border-bottom: solid 2px rgb (125, 34,34);
+padding: 20px;
+  font-size: 32px
+  color: rgb(125, 34,34);
+
 }
