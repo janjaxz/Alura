@@ -1,24 +1,25 @@
-body{
-color: #d77267cf;
-  backgroud:#d59e9e63;
-  margin:0px
+body {
+    color: #cb5d5d;
+    background: #e7b9b9;
+    margin: 0px;
+  
 }
 
-header{
-border-bottom: solid 2px rgb (125, 34,34);
-padding: 20px;
-  font-size: 32px
-  color: rgb(125, 34,34);
-
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
 
 section {
-  background: rgb( 184, 156, 213);
-  padding-bottom: 80px:
-padding-top: 80px;
-display: flex;
-justify-content: center;
+	background: rgb(184,156,213);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
 }
 
-.chamada.texto {
-  margin-right: 5%;
+.chamada-texto {
+    margin-right: 5%;
+}
