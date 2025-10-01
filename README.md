@@ -15,35 +15,32 @@
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
-            <p>#homem-aranha</p>
+            <h1>A HISTÓRIA INSANA DO PENNYWISE</h1>
+            <p>#Caso criminal</p>
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/0HePFnErp9I?si=Od-rxWyFLsBst5lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     </section>
 
     <section class="categoria">
-        <h2>Filmes e séries</h2>
+        <h2>Outros casos</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=05ip7qT3Ww0">
+                <img src="https://img.youtube.com/vi/05ip7qT3Ww0/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=KB4BWifpSFY">
+                <img src="https://img.youtube.com/vi/KB4BWifpSFY/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=0s0UWzmBCGI">
+                <img src="https://img.youtube.com/vi/0s0UWzmBCGI/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=I0fW-F31RNY">
+                <img src="https://img.youtube.com/vi/I0fW-F31RNY/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-                <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=giUp8aVXNVI">
+                <img src="https://img.youtube.com/vi/giUp8aVXNVI/maxresdefault.jpg" />
             </a>
         </div>
     </section>
